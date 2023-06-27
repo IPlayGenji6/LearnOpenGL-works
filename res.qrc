@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>plane.vert</file>
+        <file>plane.frag</file>
+    </qresource>
+</RCC>
